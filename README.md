@@ -3,7 +3,7 @@ README
 
 Titre : Prédiction des prix des véhicules en utilisant la régression linéaire
 
-Objectif:
+Prédiction du prix de vente des voitures
 Ce projet vise à prédire le prix de vente des voitures en utilisant des modèles de régression K plus proches voisins (K-NN). Les données utilisées sont extraites du jeu de données "imports-85" qui contient diverses caractéristiques techniques et des informations sur les prix de vente des voitures.
 
 Préparation des données
